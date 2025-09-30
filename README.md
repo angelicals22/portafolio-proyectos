@@ -28,14 +28,6 @@ El objetivo es mostrar los proyectos más relevantes que evidencian mis competen
 El portafolio puede visualizarse como sitio web gracias a **GitHub Pages**.  
 🔗 [Ver portafolio en línea](https://angelicals22.github.io/portafolio-proyectos/)
 
----
-
-## 📬 Contacto
-Si deseas más información sobre alguno de los proyectos o colaborar en futuras iniciativas, puedes contactarme en:  
-
-- ✉️ **Correo:** angelicals22@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/) *(añade tu link real)*  
-- 🐙 [GitHub](https://github.com/angelicals22)
 
 ---
 ✨ *Este portafolio sigue en constante actualización conforme desarrollo nuevos proyectos y adquiero nuevas habilidades.*
